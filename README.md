@@ -1,0 +1,8 @@
+1. AI Agent for Tic-Tac-Toe
+Description: During my Codsoft AI internship, I developed an AI agent to play the classic game of Tic-Tac-Toe against a human player. The AI utilizes the Minimax algorithm with Alpha-Beta pruning to make optimal moves, ensuring it is unbeatable. This project involved implementing game theory and search algorithms, enhancing my understanding of AI strategies for turn-based games and refining my skills in Python programming and algorithm optimization.
+
+2. Rule-Based Chatbot
+Description: As part of the Codsoft AI internship, I built a rule-based chatbot capable of handling various user queries with predefined responses. By leveraging if-else statements and pattern matching, the chatbot can identify user intents such as greetings, farewells, and basic inquiries. This project allowed me to delve into natural language processing and conversational flow, providing a foundational understanding of how chatbots are designed to interact effectively with users.
+
+3. Simple Recommendation System
+Description: For my Codsoft AI internship project, I developed a recommendation system that suggests items to users based on their preferences. The system combines collaborative filtering and content-based filtering techniques to recommend movies or products. Collaborative filtering uses user similarity to predict preferences, while content-based filtering uses item attributes to recommend similar items. This project enriched my knowledge of recommendation algorithms, data handling, and machine learning, enabling me to understand how personalized recommendations are generated in various applications.
